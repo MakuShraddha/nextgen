@@ -1,1 +1,1 @@
-print "Hello gen"
+print ("Hello gen")
